@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/salmafarah/project-4-assessment.git/static/css/main.e8bc7c8f.chunk.css",
-    "main.js": "/salmafarah/project-4-assessment.git/static/js/main.b56665ed.chunk.js",
-    "main.js.map": "/salmafarah/project-4-assessment.git/static/js/main.b56665ed.chunk.js.map",
-    "runtime-main.js": "/salmafarah/project-4-assessment.git/static/js/runtime-main.626a0a95.js",
-    "runtime-main.js.map": "/salmafarah/project-4-assessment.git/static/js/runtime-main.626a0a95.js.map",
-    "static/js/2.de7339ed.chunk.js": "/salmafarah/project-4-assessment.git/static/js/2.de7339ed.chunk.js",
-    "static/js/2.de7339ed.chunk.js.map": "/salmafarah/project-4-assessment.git/static/js/2.de7339ed.chunk.js.map",
-    "index.html": "/salmafarah/project-4-assessment.git/index.html",
-    "precache-manifest.d9a27f0d77433aa325fbfeb48d0b2084.js": "/salmafarah/project-4-assessment.git/precache-manifest.d9a27f0d77433aa325fbfeb48d0b2084.js",
-    "service-worker.js": "/salmafarah/project-4-assessment.git/service-worker.js",
-    "static/css/main.e8bc7c8f.chunk.css.map": "/salmafarah/project-4-assessment.git/static/css/main.e8bc7c8f.chunk.css.map",
-    "static/js/2.de7339ed.chunk.js.LICENSE.txt": "/salmafarah/project-4-assessment.git/static/js/2.de7339ed.chunk.js.LICENSE.txt"
+    "main.css": "/salmafarah/github.io/project-4-assessment/static/css/main.e8bc7c8f.chunk.css",
+    "main.js": "/salmafarah/github.io/project-4-assessment/static/js/main.0805a188.chunk.js",
+    "main.js.map": "/salmafarah/github.io/project-4-assessment/static/js/main.0805a188.chunk.js.map",
+    "runtime-main.js": "/salmafarah/github.io/project-4-assessment/static/js/runtime-main.54ef2931.js",
+    "runtime-main.js.map": "/salmafarah/github.io/project-4-assessment/static/js/runtime-main.54ef2931.js.map",
+    "static/js/2.de7339ed.chunk.js": "/salmafarah/github.io/project-4-assessment/static/js/2.de7339ed.chunk.js",
+    "static/js/2.de7339ed.chunk.js.map": "/salmafarah/github.io/project-4-assessment/static/js/2.de7339ed.chunk.js.map",
+    "index.html": "/salmafarah/github.io/project-4-assessment/index.html",
+    "precache-manifest.ad37288f778247b088bf985d68966fae.js": "/salmafarah/github.io/project-4-assessment/precache-manifest.ad37288f778247b088bf985d68966fae.js",
+    "service-worker.js": "/salmafarah/github.io/project-4-assessment/service-worker.js",
+    "static/css/main.e8bc7c8f.chunk.css.map": "/salmafarah/github.io/project-4-assessment/static/css/main.e8bc7c8f.chunk.css.map",
+    "static/js/2.de7339ed.chunk.js.LICENSE.txt": "/salmafarah/github.io/project-4-assessment/static/js/2.de7339ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.626a0a95.js",
+    "static/js/runtime-main.54ef2931.js",
     "static/js/2.de7339ed.chunk.js",
     "static/css/main.e8bc7c8f.chunk.css",
-    "static/js/main.b56665ed.chunk.js"
+    "static/js/main.0805a188.chunk.js"
   ]
 }
