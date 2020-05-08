@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/salmafarah/github.io/project-4-assessment/static/css/main.e8bc7c8f.chunk.css",
-    "main.js": "/salmafarah/github.io/project-4-assessment/static/js/main.0805a188.chunk.js",
-    "main.js.map": "/salmafarah/github.io/project-4-assessment/static/js/main.0805a188.chunk.js.map",
-    "runtime-main.js": "/salmafarah/github.io/project-4-assessment/static/js/runtime-main.54ef2931.js",
-    "runtime-main.js.map": "/salmafarah/github.io/project-4-assessment/static/js/runtime-main.54ef2931.js.map",
-    "static/js/2.de7339ed.chunk.js": "/salmafarah/github.io/project-4-assessment/static/js/2.de7339ed.chunk.js",
-    "static/js/2.de7339ed.chunk.js.map": "/salmafarah/github.io/project-4-assessment/static/js/2.de7339ed.chunk.js.map",
-    "index.html": "/salmafarah/github.io/project-4-assessment/index.html",
-    "precache-manifest.ad37288f778247b088bf985d68966fae.js": "/salmafarah/github.io/project-4-assessment/precache-manifest.ad37288f778247b088bf985d68966fae.js",
-    "service-worker.js": "/salmafarah/github.io/project-4-assessment/service-worker.js",
-    "static/css/main.e8bc7c8f.chunk.css.map": "/salmafarah/github.io/project-4-assessment/static/css/main.e8bc7c8f.chunk.css.map",
-    "static/js/2.de7339ed.chunk.js.LICENSE.txt": "/salmafarah/github.io/project-4-assessment/static/js/2.de7339ed.chunk.js.LICENSE.txt"
+    "main.css": "/project-4-assessment/static/css/main.e8bc7c8f.chunk.css",
+    "main.js": "/project-4-assessment/static/js/main.3031bd0f.chunk.js",
+    "main.js.map": "/project-4-assessment/static/js/main.3031bd0f.chunk.js.map",
+    "runtime-main.js": "/project-4-assessment/static/js/runtime-main.4586e08c.js",
+    "runtime-main.js.map": "/project-4-assessment/static/js/runtime-main.4586e08c.js.map",
+    "static/js/2.de7339ed.chunk.js": "/project-4-assessment/static/js/2.de7339ed.chunk.js",
+    "static/js/2.de7339ed.chunk.js.map": "/project-4-assessment/static/js/2.de7339ed.chunk.js.map",
+    "index.html": "/project-4-assessment/index.html",
+    "precache-manifest.5854dfa7d0fb9783809763c2bd4e68fa.js": "/project-4-assessment/precache-manifest.5854dfa7d0fb9783809763c2bd4e68fa.js",
+    "service-worker.js": "/project-4-assessment/service-worker.js",
+    "static/css/main.e8bc7c8f.chunk.css.map": "/project-4-assessment/static/css/main.e8bc7c8f.chunk.css.map",
+    "static/js/2.de7339ed.chunk.js.LICENSE.txt": "/project-4-assessment/static/js/2.de7339ed.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.54ef2931.js",
+    "static/js/runtime-main.4586e08c.js",
     "static/js/2.de7339ed.chunk.js",
     "static/css/main.e8bc7c8f.chunk.css",
-    "static/js/main.0805a188.chunk.js"
+    "static/js/main.3031bd0f.chunk.js"
   ]
 }
